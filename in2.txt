@@ -1,0 +1,6 @@
+!PROGfRAM Exemplul_1
+VAR
+a1 : INTEGER
+BEGIN
+READ(a1<
+END
